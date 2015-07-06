@@ -3,3 +3,4 @@ Widgets are snippets of html that can be embedded on your site to provide Book E
 ## Documentation
 * **[Getting Started](https://github.com/FirebrandTech/widgets/wiki/Getting-Started)**
 * **[Me Widget](https://github.com/FirebrandTech/widgets/wiki/Me-Widget)**
+* **[Cart Badge Widget](https://github.com/FirebrandTech/widgets/wiki/Cart-Badge-Widget)**
